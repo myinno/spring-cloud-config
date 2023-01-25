@@ -1,0 +1,8 @@
+token:
+  expiration_time: 90000000
+  secret: user_token_prod
+gateway.ip: 10.200.0.1  
+
+
+profiles:
+  active: prod 
