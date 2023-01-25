@@ -3,5 +3,3 @@ token:
   secret: user_token_dev
 gateway.ip: 10.200.0.1
 
-profiles:
-  active: dev  

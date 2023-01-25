@@ -3,6 +3,3 @@ token:
   secret: user_token_prod
 gateway.ip: 10.200.0.1  
 
-
-profiles:
-  active: prod 
